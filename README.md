@@ -4,4 +4,5 @@
 
 # demontrois
 
-# List the things you added for points
+# More than eight passages,allowed player to pick up items
+
