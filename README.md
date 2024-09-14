@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Trinity Fritz
 
-# Your Github username
+# demontrois
 
 # List the things you added for points
